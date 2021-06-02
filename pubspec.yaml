@@ -9,6 +9,13 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: any
+  crypto: any
+  openpgp: any
+  flutter_riverpod: any
+  flutter_colorpicker: any
+  firebase_core: any
+  cloud_firestore: any
+  shared_preferences: any
 
 dev_dependencies:
   flutter_test:

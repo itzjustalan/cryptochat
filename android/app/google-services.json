@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559848367436",
+    "project_id": "cryptochat-foss",
+    "storage_bucket": "cryptochat-foss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559848367436:android:3a272a6baffb5244fbdbe9",
+        "android_client_info": {
+          "package_name": "com.itzjustalan.cryptochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559848367436-bulif6fv99stjjulqacamqb6ek4e2tiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb4aujzY0xW3CEJihDdknqzvTRU2Pq5ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559848367436-bulif6fv99stjjulqacamqb6ek4e2tiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
