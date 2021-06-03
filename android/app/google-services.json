@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "559848367436-n8cth1sin744ne9vr2lolv5g1ea0q8an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itzjustalan.cryptochat",
+            "certificate_hash": "13a2c103b8964c83c7d96e559e746654fe0047a5"
+          }
+        },
+        {
           "client_id": "559848367436-bulif6fv99stjjulqacamqb6ek4e2tiu.apps.googleusercontent.com",
           "client_type": 3
         }

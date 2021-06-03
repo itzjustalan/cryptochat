@@ -1,3 +1,4 @@
+import 'package:cryptochat/pages/appInvitePage.dart';
 import 'package:cryptochat/pages/lockScreen.dart';
 import 'package:cryptochat/providers/themeProvider.dart';
 import 'package:flutter/material.dart';
@@ -17,7 +18,8 @@ class MyApp extends ConsumerWidget {
       //themeMode: appThemeMode,
       themeMode: ThemeMode.dark,
       debugShowCheckedModeBanner: false,
-      home: LockScreen(),
+      //home: LockScreen(),
+      home: AppInvitePage(),
     );
   }
 }
